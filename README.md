@@ -9,7 +9,10 @@
 
 ## Authors
 
+eazycodinz.github.io/Week6-7-task-carous
+
 - [@eazycodinz](https://www.github.com/eazycodinz)
+- 
 
 
 
